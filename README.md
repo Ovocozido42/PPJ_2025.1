@@ -1,26 +1,24 @@
 # PSJ Contabil
 
-https://docs.google.com/document/d/1g1BJIt3iIznZMPPC8zwtnd328Q5OdmVpfgag1r7WeQg/edit?usp=sharing
-
 # Documentação do Sistema
 
 ## SUMÁRIO
 
-Dados do Cliente	2
-Equipe de Desenvolvimento	3
-1. Introdução	4
-2. Objetivo	5
-3. Escopo	6
-4. Backlogs do Produto	7
-5. Cronograma	8
-6. Materiais e Métodos	9
-7. Resultados	10
-8. Conclusão	11
-9. Homologação do MVP junto ao cliente	12
-10. Divulgação	13
-11. Carta de Apresentação	15
-12. Carta de Autorização	16
-13. Relato individual do processo	18
+Dados do Cliente	
+Equipe de Desenvolvimento	
+1. Introdução	
+2. Objetivo	
+3. Escopo	
+4. Backlogs do Produto	
+5. Cronograma	
+6. Materiais e Métodos	
+7. Resultados	
+8. Conclusão	
+9. Homologação do MVP junto ao cliente	
+10. Divulgação	
+11. Carta de Apresentação	
+12. Carta de Autorização	
+13. Relato individual do processo
 
 
 
@@ -28,50 +26,38 @@ Equipe de Desenvolvimento	3
 
 
 
-Dados do Cliente
+## Dados do Cliente
 
-Título do Projeto:  <Título do projeto: no título deve constar, resumidamente, qual problema o software está resolvendo. Ex.: PneuMático: um trocador automático de pneus>. Este título deve ser idêntico ao da planilha “Equipes&Projetos”
-Cliente: <razão social/nome do cliente>
-CNPJ/CPF: <CNPJ/CPF do cliente>
-Contato: <nome do contato>
-Email do contato: <email do contato>
-
-
-Equipe de Desenvolvimento 
-
-<Elencar, na tabela abaixo, os dados dos integrantes e do professor-orientador.>
-Nome completo
-Curso
-Disciplina
-<integrante 1>
-<nome do curso>
-<nome da disciplina>
-<integrante 2>
-<nome do curso>
-<nome da disciplina>
-<integrante 3>
-<nome do curso>
-<nome da disciplina>
-<integrante 4>
-<nome do curso>
-<nome da disciplina>
-<integrante 5>
-<nome do curso>
-<nome da disciplina>
+Título do Projeto:  PJS Contabilidade
+Cliente: PJS Assessoria & Contábil 
+CNPJ/CPF: 31.751.942/0001-35
+Contato: (19) 98153-4216
+Email do contato: contato@pjscontabil.com.br
 
 
-Professor Orientador
-<nome completo do professor>
+## Equipe de Desenvolvimento 
 
+Caick Bertin Viana
+Analise e Desenvolvimento de Sistema
+Padrões de Projeto em Software em Java
 
-Introdução
+Gabriel Juliani Arroyo
+Analise e Desenvolvimento de Sistema
+Padrões de Projeto em Software em Java
 
+Natália Santos Policeno Rosa
+Analise e Desenvolvimento de Sistema
+Padrões de Projeto em Software em Java
 
+## Professor Orientador
+Kesede Rodriges Julio
 
-<Dica: uma introdução ao projeto deve constar o problema constatado pelo cliente. Em seguida, deve ser relatado, resumidamente, como serão resolvidos. Comente sobre as tecnologias que serão utilizadas para resolver o problema e por fim, em apenas uma frase, descreva também como seu sistema vai modificar (impacto causado) no processo do cliente. Este texto pode ser usado no forms de inscrição no CPEI/JUPESQI>
+## Introdução
+ O cliente enfrenta dificuldades na organização de dados e na elaboração de orçamentos para seus clientes, resultando em um processo demorado e pouco eficiente. Para solucionar esse problema, propomos o desenvolvimento de um sistema web que permitirá o armazenamento, a estruturação dos dados e a geração automatizada de orçamentos.
 
+ A solução será implementada utilizando MongoDB para o gerenciamento do banco de dados, Java para a estruturação e desenvolvimento do sistema, e JasperStudio para a criação de relatórios. Com essa abordagem, buscamos automatizar o processo, tornando-o mais ágil e eficiente.
 
-Objetivo
+## Objetivo
 
 
 <Dica: Qual problema que o cliente enfrenta, o qual será resolvido através de um sistema computadorizado? Por exemplo, “Automatizar o atendimento de balcão para que os pedidos sejam emitidos de forma automática para a cozinha do restaurante.>
