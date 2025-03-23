@@ -36,21 +36,16 @@ Email do contato: contato@pjscontabil.com.br
 
 
 ## Equipe de Desenvolvimento 
+| Nome                          | Curso                                | Disciplina                             |
+|--------------------------------|-------------------------------------|----------------------------------------|
+| Caick Bertin Viana            | Análise e Desenvolvimento de Sistema | Padrões de Projeto em Software em Java |
+| Gabriel Juliani Arroyo        | Análise e Desenvolvimento de Sistema | Padrões de Projeto em Software em Java |
+| Natália Santos Policeno Rosa  | Análise e Desenvolvimento de Sistema | Padrões de Projeto em Software em Java |
 
-Caick Bertin Viana
-Analise e Desenvolvimento de Sistema
-Padrões de Projeto em Software em Java
 
-Gabriel Juliani Arroyo
-Analise e Desenvolvimento de Sistema
-Padrões de Projeto em Software em Java
-
-Natália Santos Policeno Rosa
-Analise e Desenvolvimento de Sistema
-Padrões de Projeto em Software em Java
 
 ## Professor Orientador
-Kesede Rodriges Julio
+_Kesede Rodrigues Julio_
 
 ## Introdução
  O cliente enfrenta dificuldades na organização de dados e na elaboração de orçamentos para seus clientes, resultando em um processo demorado e pouco eficiente. Para solucionar esse problema, propomos o desenvolvimento de um sistema web que permitirá o armazenamento, a estruturação dos dados e a geração automatizada de orçamentos.
